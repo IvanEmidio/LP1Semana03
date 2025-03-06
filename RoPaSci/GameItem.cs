@@ -2,9 +2,8 @@ namespace RoPaSci
 {
     public enum GameItem
     {
-        None = 0,
-        Rock = 1,
-        Paper = 2,
-        Scissor = 3
+        Rock = 0,
+        Paper = 1,
+        Scissor = 2
     }
 }

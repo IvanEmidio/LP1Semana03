@@ -2,9 +2,8 @@ namespace RoPaSci
 {
     public enum GameStatus
     {
-        None = 0,
-        Draw = 1,
-        Player1Wins = 2,
-        Player2Wins = 3
+        Draw = 0,
+        Player1Wins = 1,
+        Player2Wins = 2
     }
 }
