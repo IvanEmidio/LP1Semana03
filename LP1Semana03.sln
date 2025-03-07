@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamousQuotes", "FamousQuote
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoPaSci", "RoPaSci\RoPaSci.csproj", "{6B302B89-DBAD-41D7-AA74-C8020CDAD59F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapAnalyzer", "TrapAnalyzer\TrapAnalyzer.csproj", "{4A35390F-8362-4A35-B343-28428CB713DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{6B302B89-DBAD-41D7-AA74-C8020CDAD59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B302B89-DBAD-41D7-AA74-C8020CDAD59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B302B89-DBAD-41D7-AA74-C8020CDAD59F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A35390F-8362-4A35-B343-28428CB713DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A35390F-8362-4A35-B343-28428CB713DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A35390F-8362-4A35-B343-28428CB713DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A35390F-8362-4A35-B343-28428CB713DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
